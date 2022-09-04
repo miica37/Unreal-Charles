@@ -13,7 +13,7 @@ Folder Locations
 
 In order to differentiate between original animations and retargeted animations, animations are located inside two different folders. Original Animations are inside the :abbr:`📁Animations (Content\\Charles\\📁Animations)` folder while Retargeted Animations are inside the :abbr:`📁Demo (Content\\Charles\\Demo)` folder.
 
-In fact, since there are almost no original animations (besides a facial morph target animation :guilabel:`Anim_smile_blink`), you will find **most** of the animation in the :abbr:`📁Demo (Content\\Charles\\Demo)` folder. This folder contains a few animations retargeted from UE4 Mannequin, Paragon's Kwang and Anim Starter Pack.
+In fact, since there are almost no original animations (besides a facial morph target animation :guilabel:`Anim_smile_blink`), you will find **most** of the animation in the :abbr:`📁Demo (Content\\Charles\\Demo)` folder. This folder contains a few animations retargeted from UE4 Mannequin, Paragon's Kwang and `Animation Starter Pack <https://www.unrealengine.com/marketplace/en-US/product/animation-starter-pack>`_.
 
 The mannequin's animations are retargeted with UE4 while Paragon's and Anim Starter's animation are retargeting inside Maya using HumanIK.
 

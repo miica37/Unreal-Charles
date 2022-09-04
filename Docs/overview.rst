@@ -28,6 +28,10 @@ Features
 
 * :ref:`PBR Textures <textures>`
 
+* Full Body under clothes
+
+* RGB Mask provided to make custom skin for character
+
 |
 |
 
