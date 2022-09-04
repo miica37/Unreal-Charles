@@ -202,7 +202,7 @@ Wireframe Materials
 
 :material:`M_Transparent`
 -------------------------
-[ M_Transparent ] is used on the material slots of :ref:`cloth proxy meshes <clothes>`.
+[ M_Transparent ] can be used anywhere you want to hide the mesh.
 
 :material:`M_Eyes_Shadow`
 -------------------------

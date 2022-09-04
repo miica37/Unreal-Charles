@@ -24,7 +24,7 @@ Features
 
 * :ref:`Apple BlendShapes <blendshapes>`
 
-* :ref:`Dynamic Hair and Jacket <clothes>`
+* :ref:`Dynamic Hair and Jacket <dynamics>`
 
 * :ref:`PBR Textures <textures>`
 
